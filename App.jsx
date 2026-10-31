@@ -4,7 +4,7 @@ import { createClient } from "@supabase/supabase-js";
 const SUPABASE_URL = "https://feiafohgpoafwctmiuwt.supabase.co";
 const SUPABASE_KEY = "sb_publishable_JwhbfdI2rV_pluh-BQdhJg_s-0KNvd-";
 
-const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
+const supabase = createClient(https://hlnilycevcbxmhbxyjgj.supabase.co, Ssb_publishable_2qdlNsIwN2VtZPaY3b3j1g_OrvkuXAZ);
 
 const STATUSES = ["Applied","Screening","Technical","Final","Offer","Rejected","Withdrawn"];
 const OUTREACH = ["Not contacted","DM sent","Email sent","Replied","Call scheduled","No response"];
